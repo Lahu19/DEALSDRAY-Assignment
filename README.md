@@ -51,8 +51,8 @@ Make sure you have the following installed:
 3. **Environment Variables**:
    - Create a `.env` file in the backend directory with the following:
      ```plaintext
-     MONGO_URI=<Your MongoDB URI>
-     PORT=5000
+     MONGO_URI=localhost:27017
+     PORT=27017
      ```
 
 ## 🖥️ Running the Application
